@@ -45,14 +45,12 @@ img{
 }
 .active, .panel:hover{
     border-color:#0BADA6;
-    border-style: solid; 
-    
+    border-style: solid;     
 }
 .vizualization{
     width:50% !important;
     height:50% !important;
 }
-
 /* Title Class  */
 .title{
     color: #0BADA6;  
@@ -73,29 +71,11 @@ p{
     padding: 10px 20px 15px; 
     color:black;
     background-color: white; 
-
   }
 /* Table */
   .table{
     font-size: 15px; 
     border-top-color: white !important; 
-}
-/* Footer */
-footer{
-background-color: #666666; 
-border-top-style: solid; 
-border-top-width: 5px; 
-border-top-color: #0BADA6;
-color: white; 
-min-height: 55px; 
-font-family: Arial, Helvetica, sans-serif;
-font-size: 15px; 
-text-align: center; 
-position: fixed;
-left: 0;
-bottom: 0;
-width: 100%;
-padding-top: 15px; 
 }
 /* Media Queries */
 @media(max-width: 992px){
@@ -113,14 +93,11 @@ background-color: #0BADA6 !important;
 .navbar-brand{
     padding: 10px !important; 
 }
-
 button{
     margin-right: 30px; 
 }
 button:focus {
-
     outline: 1px dotted;
-    outline: 5px auto -webkit-focusring-color;
-    
+    outline: 5px auto -webkit-focusring-color;    
     }
 }
