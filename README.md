@@ -1,5 +1,5 @@
 # Web-Design-Challenge: Web Visualization Dashboard (Latitude)
-https://sabrinasaleh.github.io/web-design-dashboard/
+https://sabrinasaleh.github.io/Web-Design-Challenge/
 
 ## Background
 
